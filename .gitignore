@@ -1,3 +1,5 @@
+# task, format specification etc.
+docs/
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
